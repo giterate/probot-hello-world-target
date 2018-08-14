@@ -1,0 +1,19 @@
+{
+  "name": "probot-hello-world-target",
+  "version": "0.0.1",
+  "description": "A repo for testing probot effects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giterate/probot-hello-world-target.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giterate/probot-hello-world-target/issues"
+  },
+  "homepage": "https://github.com/giterate/probot-hello-world-target#readme"
+}
